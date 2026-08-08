@@ -9,6 +9,6 @@
     "decode.js"
   ],
   "dependencies": {
-    "yargs": "~8.0.2"
+    "yargs": "~17.7.2"
   }
 }
